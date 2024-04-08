@@ -3,14 +3,11 @@ class Solution {
         int start = 0;
         int end = s.length-1;
         while(start<=end){
-            swap(s,start,end);
+            char c = s[start];
+            s[start] = s[end];
+            s[end] = c;
             start++;
             end--;
         }
-    }
-    void swap(char [] s,int i,int j){
-        char c = s[i];
-        s[i] = s[j];
-        s[j] = c;
     }
 }
