@@ -1,0 +1,39 @@
+class Solution {
+    public void setZeroes(int[][] a) {
+        int n = a.length;
+        int m = a[0].length;
+        int c0=1;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(a[i][j]==0){
+                    a[i][0]=0;
+                    if(j==0){
+                        c0=0;
+                    }
+                    else{
+                        a[0][j]=0;
+                    }
+                }
+            }
+        }
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
+                if(a[i][j]!=0){
+                    if(a[i][0]==0 || a[0][j]==0 ){
+                        a[i][j]=0;
+                    }
+                }
+            }
+        }
+
+        if (a[0][0] == 0) {
+           Arrays.fill(a[0], 0);
+        }
+        if (c0 == 0) {
+            for (int i = 0; i < n; i++) {
+                a[i][0] = 0;
+            }
+        }
+    }
+}
