@@ -28,7 +28,9 @@ class Solution {
         }
 
         if (a[0][0] == 0) {
-           Arrays.fill(a[0], 0);
+           for (int j = 0; j < m; j++) {
+                a[0][j]=0;
+            }
         }
         if (c0 == 0) {
             for (int i = 0; i < n; i++) {
