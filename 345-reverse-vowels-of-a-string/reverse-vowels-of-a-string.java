@@ -4,13 +4,16 @@ class Solution {
         int start = 0;
         int end = s.length() - 1;
         String vowels = "aeiouAEIOU";
+        
         while (start < end) {
             while (start < end && vowels.indexOf(word[start]) == -1) {
                 start++;
             }
+            
             while (start < end && vowels.indexOf(word[end]) == -1) {
                 end--;
             }
+            
             char temp = word[start];
             word[start] = word[end];
             word[end] = temp;
@@ -18,6 +21,7 @@ class Solution {
             start++;
             end--;
         }
+        
         String answer = new String(word);
         return answer;
     }
