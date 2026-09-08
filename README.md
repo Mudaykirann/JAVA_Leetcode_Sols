@@ -21,3 +21,15 @@ JAVA_Leetcode_Sols/
 ├── problem-folder/       # Source folder for LeetCode problems
 │   └── problemQA         # Solution files
 └── README.md             # Repository documentation
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
+## String
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
+<!---LeetCode Topics End-->
