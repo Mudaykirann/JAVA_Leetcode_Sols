@@ -31,6 +31,7 @@ JAVA_Leetcode_Sols/
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
@@ -52,4 +53,16 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
