@@ -1,9 +1,15 @@
 class Solution {
     public int maxDistinct(String s) {
-        HashSet<Character> h = new HashSet<>();
-        for(int i=0;i<s.length();i++){
-            h.add(s.charAt(i));
+        int[] temp = new int[26];
+        int c=0;
+        for(int i=0;i<s.length();i++)
+        {
+            int ind = s.charAt(i)-'a';
+            if(temp[ind]==0){
+                temp[ind]=1;
+                c++;
+            }
         }
-        return h.size();
+        return c;
     }
 }
