@@ -31,6 +31,7 @@ JAVA_Leetcode_Sols/
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
@@ -44,6 +45,7 @@ JAVA_Leetcode_Sols/
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
