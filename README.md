@@ -33,6 +33,7 @@ JAVA_Leetcode_Sols/
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+| [3110-score-of-a-string](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
