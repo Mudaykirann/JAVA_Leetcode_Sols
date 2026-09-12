@@ -33,6 +33,7 @@ JAVA_Leetcode_Sols/
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+| [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
@@ -40,10 +41,12 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -70,4 +73,8 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
