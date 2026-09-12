@@ -41,11 +41,13 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -53,6 +55,7 @@ JAVA_Leetcode_Sols/
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +80,8 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
