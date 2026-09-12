@@ -43,6 +43,7 @@ JAVA_Leetcode_Sols/
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
+| [2574-left-and-right-sum-differences](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
