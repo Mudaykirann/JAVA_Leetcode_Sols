@@ -40,6 +40,7 @@ JAVA_Leetcode_Sols/
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0485-max-consecutive-ones) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
