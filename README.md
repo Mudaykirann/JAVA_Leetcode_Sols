@@ -36,6 +36,7 @@ JAVA_Leetcode_Sols/
 | [0500-keyboard-row](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0500-keyboard-row) |
 | [1773-count-items-matching-a-rule](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1816-truncate-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -49,6 +50,7 @@ JAVA_Leetcode_Sols/
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [1773-count-items-matching-a-rule](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1816-truncate-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -78,6 +80,7 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
