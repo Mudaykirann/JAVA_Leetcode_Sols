@@ -65,6 +65,7 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
+| [0836-rectangle-overlap](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
@@ -97,4 +98,8 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
