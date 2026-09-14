@@ -6,8 +6,8 @@ class Solution {
         else if (ruleKey.equals("name")) rk = 2;
         
         int c = 0;
-
-        for (int p = 0; p < items.size(); p++) {
+        int n=items.size();
+        for (int p = 0; p < n; p++) {
             if (items.get(p).get(rk).equals(ruleValue)) {
                 c++;
             }
