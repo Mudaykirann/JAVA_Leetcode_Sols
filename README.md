@@ -36,6 +36,7 @@ JAVA_Leetcode_Sols/
 | [0500-keyboard-row](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0500-keyboard-row) |
 | [1773-count-items-matching-a-rule](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3110-score-of-a-string) |
@@ -59,6 +60,7 @@ JAVA_Leetcode_Sols/
 | [0500-keyboard-row](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0500-keyboard-row) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
