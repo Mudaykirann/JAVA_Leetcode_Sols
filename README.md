@@ -42,6 +42,7 @@ JAVA_Leetcode_Sols/
 | [3110-score-of-a-string](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3921-score-validator) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ JAVA_Leetcode_Sols/
 | [2185-counting-words-with-a-given-prefix](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/2574-left-and-right-sum-differences) |
+| [3921-score-validator](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +106,8 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3921-score-validator](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/3921-score-validator) |
 <!---LeetCode Topics End-->
