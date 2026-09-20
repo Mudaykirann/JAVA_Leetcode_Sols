@@ -34,6 +34,7 @@ JAVA_Leetcode_Sols/
 | [0168-excel-sheet-column-title](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -60,6 +61,7 @@ JAVA_Leetcode_Sols/
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/0771-jewels-and-stones) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mudaykirann/JAVA_Leetcode_Sols/tree/master/1832-check-if-the-sentence-is-pangram) |
